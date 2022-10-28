@@ -15,11 +15,7 @@
 <h3 style="color: blue;"><b>GET</b></h3> 
 <p>- git clone <a> https://github.com/iconfig/netpack </a></p>
 
-<stlye>
-  p{
-  color:blue;
-  }
- </style>
+
 
 
 
