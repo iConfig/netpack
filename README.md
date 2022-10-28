@@ -1,6 +1,6 @@
  Netpack 
 
- FEATURES 
+ <b>FEATURES </b>
 
 - discover IP associated to a domain 
 - finds the MX Records of the domain 
