@@ -2,7 +2,7 @@
 
 
 
-<h3 style="color: blue;"><b>FEATURES</b></h3>
+<h3 style="color:blue"><b>FEATURES</b></h3>
 
 <p>- discover IP associated to a domain </p>
 <p>- finds the MX Records of the domain </p>
