@@ -10,7 +10,7 @@
 
 
 <h3 style="color: blue;"><b>USAGE</b></h3>
-<p>- go run netpack.go domain</p>
+![#f03c15]<p>- go run netpack.go domain</p>
 
 <h3 style="color: blue;"><b>GET</b></h3> 
 <p>- git clone <a> https://github.com/iconfig/netpack </a></p>
