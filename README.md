@@ -1,7 +1,16 @@
-# netpack 
+& Netpack 
 
-# golang script that performs 3 networking functions ... 
-# 1. check for all IPs of a domain 
-# 2. lookup mx records 
-# 3. lookup nameservers 
+% FEATURES 
+
+- discover IP associated to a domain 
+- finds the MX Records of the domain 
+- search for the domain NameServers
+
+
+$ USAGE
+- go run netpack.go domain
+
+
+
+
 
