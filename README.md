@@ -13,7 +13,7 @@
 <p>- go run netpack.go domain</p>
 
 <h3 style="color: blue;"><b>GET</b></h3> 
-<p>- git clone <a> https://github.com/iconfig/netpack </a></p>
+<p>- git clone https://github.com/iconfig/netpack </p>
 
 
 
